@@ -5,8 +5,8 @@ It also is pretty customizable.
 ## Installation
 
 1. Download the ```Morrowind Rebirth TES3MP Gates.esp``` and load it AFTER ```Morrowind Rebirth [Main].esp```
-[What this esp does is: a) remove original gate script from affected gates
-                        b) replace it with custom one (edited version of original to fit the needs of TES3MP)]
+
+  What this esp does is: a) remove original gate script from affected gates; b) replace it with custom one (edited version of original to fit the needs of TES3MP)
                         
          
 2. Download the ```main.lua``` from ```MR_Rebirth_Gates``` folder and put it in */server/scripts/custom/MR_Rebirth_Gates/*
