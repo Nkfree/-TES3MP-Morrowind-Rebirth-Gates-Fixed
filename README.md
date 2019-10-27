@@ -14,9 +14,9 @@ It also is pretty customizable.
 
 ## Description
 
-I wanted to play Morrowind Rebirth. Was looking forward to the day/night cycle of certain gates. I bumped into problem where one wing of gate would disappear at night (at least in Balmora) making the lock on the door useless. [![For reference see:](https://img.youtube.com/vi/LNbxP7jFMrM/maxresdefault.jpg)](https://www.youtube.com/watch?v=LNbxP7jFMrM)
+I wanted to play Morrowind Rebirth. Was looking forward to the day/night cycle of certain gates. I bumped into problem where one wing of gate would disappear at night (at least in Balmora) making the lock on the door useless. [![For reference see:](https://img.youtube.com/vi/LNbxP7jFMrM/maxresdefault.jpg)](https://youtu.be/watch?v=LNbxP7jFMrM)
 
-[![Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ws6H7ahT4QQ)
+[![Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://youtu.be/watch?v=Ws6H7ahT4QQ)
 
 
 
