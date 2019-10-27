@@ -14,21 +14,33 @@ It also is pretty customizable.
 
 ## Description
 
-I wanted to play Morrowind Rebirth. Was looking forward to the day/night cycle of certain gates. I bumped into problem where one wing of gate would disappear at night (at least in Balmora) making the lock on the door useless. [[For reference see:](https://img.youtube.com/vi/LNbxP7jFMrM/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM)
+I wanted to play Morrowind Rebirth. Was looking forward to the day/night cycle of certain gates. I bumped into problem where one wing of gate would disappear at night (at least in Balmora) making the lock on the door useless. [CLICK THE PICTURE FOR REFERENCE - YT VIDEO][![For reference see:](https://img.youtube.com/vi/LNbxP7jFMrM/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM)
 
-[[Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM
+[CLICK THE PICTURE FOR SHOWCASE OF THE FIX - YT VIDEO][![Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM)
 
 
 
 ## Configurables
 
-scriptConfig.openGatesOnDaytime = true -- when the hour shifts to 6 a.m. the city gates will open, else will only unlock (Default: true)
-scriptConfig.lockLevelDay = 1000 -- so players can't use the door (using OnObjectActivate would be safer approach)
+scriptConfig.openGatesOnDaytime = true 
+-- when the hour shifts to 6 a.m. the city gates will open, else will only unlock (Default: true)
+
+scriptConfig.lockLevelDay = 1000 
+-- so players can't use the door (using OnObjectActivate would be safer approach)
+
 scriptConfig.lockLevelNight = 100
-scriptConfig.createTimerCountdown = 1000 -- in miliseconds -> Default: 1 second (1000)
-scriptConfig.resetTimerCountdown = 1000 -- in miliseconds -> Default: 1 second (1000)
-scriptConfig.lockedGateStart = 22 -- hour when the gate gets closed and locked
-scriptConfig.lockedGateEnd = 6 -- hour when the gate gets unlocked again
+
+scriptConfig.createTimerCountdown = 1000 
+-- in miliseconds -> Default: 1 second (1000)
+
+scriptConfig.resetTimerCountdown = 1000 
+-- in miliseconds -> Default: 1 second (1000)
+
+scriptConfig.lockedGateStart = 22 
+-- hour when the gate gets closed and locked
+
+scriptConfig.lockedGateEnd = 6 
+-- hour when the gate gets unlocked again
 
 ## Credits
 
