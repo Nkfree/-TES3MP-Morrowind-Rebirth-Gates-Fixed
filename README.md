@@ -22,7 +22,7 @@ I wanted to play Morrowind Rebirth. Was looking forward to the day/night cycle o
 
 [CLICK THE PICTURE FOR REFERENCE - YT VIDEO][![For reference see:](https://img.youtube.com/vi/LNbxP7jFMrM/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM)
 
-[CLICK THE PICTURE FOR SHOWCASE OF THE FIX - YT VIDEO][![Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://youtube.com/watch?v=LNbxP7jFMrM)
+[CLICK THE PICTURE FOR SHOWCASE OF THE FIX - YT VIDEO][![Showcasing the fix:](https://img.youtube.com/vi/Ws6H7ahT4QQ/maxresdefault.jpg)](https://youtu.be/Ws6H7ahT4QQ)
 
 
 
