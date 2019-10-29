@@ -14,7 +14,7 @@ b) replace it with custom one (edited version of original to fit the needs of TE
                         
          
 2. Download the ```main.lua``` from ```MR_Rebirth_Gates``` folder and put it in */server/scripts/custom/MR_Rebirth_Gates/*
-3. Open ```customScripts.lua``` and add this code on separate line: ```require "custom/MR_Rebirth_Gates/main"```
+3. Open ```customScripts.lua``` and add this code on separate line: ```require("custom/MR_Rebirth_Gates/main")```
 
 ## Description
 
